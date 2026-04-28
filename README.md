@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 CampusVoice — Campus Complaint Management System
 
 A full-stack complaint management system for educational institutions. Built with **React + Vite**, **Node.js + Express**, and **Supabase**.
@@ -189,3 +190,7 @@ After deploying backend, update frontend `.env`:
 ```env
 VITE_API_URL=https://your-backend.railway.app/api
 ```
+=======
+# Campus-Complaints
+A web-based Smart Campus Management System that enables students and faculty to report and track classroom infrastructure issues efficiently. It provides administrators with tools to manage, assign, and resolve complaints, ensuring smooth campus operations and improved accountability.
+>>>>>>> 1dde595ae933eceb47dfac0facae9b4c1eb69bed
